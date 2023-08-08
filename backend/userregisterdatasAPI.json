@@ -1,0 +1,34 @@
+[
+  {
+  "pname": "Mitho",
+  "email": "juxtchill2brelaxy@gmail.com",
+  "password": "ramzan123@",
+  "cpassword": "ramzan123@",
+  "isVerified": "true",
+  "token": "null",
+  "__v": 0,
+  "role": "admin"
+ }
+,
+ {
+  "pname": "Hamza",
+  "email": "princeramzan@gmail.com",
+  "password": "ramzan123@",
+  "cpassword": "ramzan123@",
+  "isVerified": "false",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2NDM2OTNlMTcyNGI0NDU1YzQ4MThhNDMiLCJpYXQiOjE2ODEyOTg0MDEsImV4cCI6MTY4MTM4NDgwMX0.kefnRjYdUHFaWx6VpQMnUbvWMJQ68N3pzu6Xpfg8Xf4",
+  "role": "user",
+  "__v": 0
+ }
+ ,
+ {
+  "pname": "Hamza",
+  "email": "programmer101@gmail.com",
+  "password": "ramzan123@",
+  "cpassword": "ramzan123@",
+  "isVerified": "true",
+  "token": "null",
+  "role": "user",
+  "__v": 0
+ }
+]

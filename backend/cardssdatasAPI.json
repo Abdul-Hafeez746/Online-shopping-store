@@ -1,0 +1,49 @@
+[{
+  "pname": "White Shirt",
+  "description": "Very Natural",
+  "price": 999,
+  "image": "1681471817168-images.jpg",
+  "colors": [
+    "red"
+  ],
+  "category": "men",
+  "quantity":1,
+  "inStock":"true",
+  "__v": 0
+},{
+  "pname": "Black Pent",
+  "description": "Like A Shadow",
+  "price": 1999,
+  "image": "1681471908454-IMG_20201214_135512_479-scaled-1.jpg",
+  "colors": [
+    "blue"
+  ],
+  "category": "men",
+  "quantity":1,
+  "inStock":"true",
+  "__v": 0
+},{
+  "pname": "Trouser",
+  "description": "Red Like blood",
+  "price": 2500,
+  "image": "1681471949329-pngtree-red-and-black-sports-pants-clipart-png-image_3080914.jpg",
+  "colors": [
+    "red"
+  ],
+  "category": "men",
+  "quantity":1,
+  "inStock":"false",
+  "__v": 0
+},{
+  "pname": "T-Shirt",
+  "description": "Very Calm Style",
+  "price": 599,
+  "image": "1681471984246-download (1).jpg",
+  "colors": [
+    "red"
+  ],
+  "category": "true",
+  "quantity":1,
+  "inStock":"false",
+  "__v": 0
+}]
